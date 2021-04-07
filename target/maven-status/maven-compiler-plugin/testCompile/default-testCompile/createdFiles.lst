@@ -1,0 +1,5 @@
+twitter/testcases/loginAndRegistration/LoginTests.class
+twitter/testcases/console/ConsoleTests.class
+twitter/utils/ReadLoginData.class
+twitter/testcases/TC_HealthCheck.class
+twitter/testcases/console/ProfileTest.class
